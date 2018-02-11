@@ -1,0 +1,13 @@
+h1 {color : Green; padding-bottom: 1,5cm; margin: 0px 250px 0px 250px ;text-indent: 0,5cm }
+body  {
+	background: url(nunung.jpeg) no-repeat fixed;
+	-webkit-background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+	-o-background-size: 100% 100%;
+	background-size: 100% 100%;
+	color: #A900FF;
+}
+{margin: 30px 100px 50px 100px ;background-color: grey}
+p {font-size: 13px; text-indent: 1cm;padding-top: 0,4cm; padding-bottom: 0,4cm; padding-bottom: 10px; font-style: justify; margin: 0px 250px 0px 250px}
+table {background-color: pink; font-size: 14px}
+html {background-color: aqua}
